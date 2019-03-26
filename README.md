@@ -7,4 +7,4 @@ It is 8 degree celsius today.
 
 Changed by Jay
 
-Sunny
+Sunny but cold
